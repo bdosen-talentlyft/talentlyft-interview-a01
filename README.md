@@ -40,7 +40,7 @@ Također, potrebno je paziti i na validacije polja:
 
 Klikom na "cancel" korisnika se vraća na popis kontakata.
 
-Klikom na "save", okida se validacija, te ako su polja validna, pohranjuju se podaci u servis. Poželjno je da prikažete "loader" dok se podaci spremaju. 
+Klikom na "save", okida se validacija, te ako su polja validna, pohranjuju se podaci u servis. Poželjno je prikazati "loader" dok se podaci spremaju. 
 
 ## Brisanje kontakta
 
@@ -48,12 +48,10 @@ U popisu kontakata, klikom na ikonu kante za smeće, treba prikazati poruku kojo
 
 # Ostalo
 
-Redoslijed rješavanja funkcionalnosti nije bitan. Dozvoljeno je koristiti se dokumentacijom za Angular (https://angular.io/), Angular Material (https://material.angular.io/), te bilo koje druge izvore. Za bilo kakva dodatna pitanja, potrebno je obratiti se u obliku odgovora na email na kojem ste zadatak dobili.
-
-Što više riješite, to bolje.
+Redoslijed rješavanja funkcionalnosti nije bitan. Dozvoljeno je koristiti se dokumentacijom za Angular (https://angular.io/), Angular Material (https://material.angular.io/), te bilo koje druge izvore. Za bilo kakva dodatna pitanja, potrebno je obratiti se na email s kojeg je zadatak poslan.
 
 # Slanje rješenja
 
-Rješenje zadatka poslati u .zip formatu (bez node_modules foldera) kao odgovor na email na kojem ste zadatak dobili.
+Rješenje zadatka poslati u .zip formatu (bez node_modules foldera) kao odgovor na email s kojeg je zadatak poslan.
 
 Sretno sa rješavanjem! :)
