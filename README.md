@@ -42,7 +42,7 @@ Klikom na "cancel" korisnika se vraća na popis kontakata.
 
 Klikom na "save", okida se validacija, te ako su polja validna, pohranjuju se podaci u servis. Poželjno je prikazati "loader" dok se podaci spremaju. 
 
-## Brisanje kontakta
+## 04 - Brisanje kontakta
 
 U popisu kontakata, klikom na ikonu kante za smeće, treba prikazati poruku kojom se pita korisnika je li siguran da želi obrisati odabranog kontakta. U slučaju pozitivnog odgovora potrebno je obrisati kontakt iz popisa (i sa servisa).
 
